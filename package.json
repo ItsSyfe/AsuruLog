@@ -1,0 +1,15 @@
+{
+  "name": "@itssyfe/asurulog",
+  "version": "1.1.0",
+  "description": "Simple log library with no dependencies and no annoyances.",
+  "main": "index.js",
+  "repository": "ItsSyfe/AsuruLog",
+  "license": "MIT",
+  "keywords": [
+    "log",
+    "logging",
+    "package",
+    "npm",
+    "syfe"
+  ]
+}
